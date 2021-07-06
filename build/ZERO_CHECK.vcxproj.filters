@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\SFND_Lidar_Obstacle_Detection\build\CMakeFiles\49fdc7771b784ffac998a8517a4785f9\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8BC6F5F5-5191-3937-8D33-6C523F0E0FB4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
